@@ -1,4 +1,4 @@
-#python-contact
+# python-contact
 
 python-contact is a simple Python project for managing contacts (like a phonebook). It allows you to add, delete, update, and search contacts. This project can serve as a learning example or as a base for more complex applications.
 
